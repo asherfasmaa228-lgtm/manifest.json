@@ -1,0 +1,9 @@
+{
+  "name": "Barik Pro - Asmaa",
+  "short_name": "Barik A",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07120b",
+  "theme_color": "#d4af37",
+  "icons": [{"src": "index.html/IMG-20261008-WA3403.jpg","sizes": "512x512","type": "image/jpeg"}]
+}
